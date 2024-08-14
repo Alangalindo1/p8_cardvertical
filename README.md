@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Card vertical
+![image](https://github.com/user-attachments/assets/bf2c8b1f-5bcc-4436-8688-d7ddad3b91e7)
